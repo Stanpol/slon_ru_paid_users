@@ -1,1 +1,1 @@
-This is a scraper that runs on [Morph](https://morph.io). To get started [see the documentation](https://morph.io/documentation)
+This is a scraper that runs on [Morph](https://morph.io). It scrapes the number of premium users on [Slon.ru](http://slon.ru).

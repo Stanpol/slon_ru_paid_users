@@ -8,4 +8,4 @@ users=int(number.text.replace(" ", ""))
 
 date=time.strftime("%D")
 scraperwiki.sqlite.save(unique_keys=['date'], data={"date": date, "users": users})
-print("Today total number of paying users: " + str(users))
+print("Today total number of premium users: " + str(users))
